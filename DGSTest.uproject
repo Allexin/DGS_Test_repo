@@ -3,7 +3,6 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
-	CONFLICT 2
 	"Plugins": [
 		{
 			"Name": "RawInput",
@@ -21,4 +20,5 @@
 			"Enabled": true
 		}
 	]
+	CONFLICT 2
 }
