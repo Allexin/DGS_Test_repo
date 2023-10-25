@@ -1,0 +1,8 @@
+Merging:
+README.md
+
+Normal merge conflict for 'README.md':
+  {local}: modified file
+  {remote}: modified file
+README.md seems unchanged.
+Was the merge successful [y/n]? 
